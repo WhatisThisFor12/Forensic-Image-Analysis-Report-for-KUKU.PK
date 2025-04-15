@@ -47,11 +47,34 @@ may have 'altered' its original quality and 'metadata'.
 | File Last Accessed | March 25, 2025, 16:15 (GMT+1) | Unknown |
 | File Last Modified | March 25, 2025, 16:15 (GMT+1) | Unknown |
 
+### What This Means:
+
+- The image was **created** and **edited** using 'Photoshop', indicating **possible modifications** before its final version.
+
+- Recent access on **March 25, 2025**, could mean the image was used, shared, or repurposed recently.
+
+- Multiple 'timestamps' suggest that the image has been saved and **edited multiple times**, rather than being an untouched, original file. Also due to it being saved from website.
+
+## Image Editing & Modification Trail
+
+**Editing & Conversion History**
+
+- **Original Document ID:** 'xmp.did:a97c3d5e-b88a-d840-a1fa-130bc8782c61' (First Photoshop Save)
+
+- **Editing Actions:** Created → Saved → Converted → Derived → Saved
+
+- **Conversion Details:** Converted from Adobe Photoshop format to JPEG
+
+
+
 📌 Key Insights from the Forensic Report:
 
 ✅ The image was edited multiple times in Adobe Photoshop before being converted to JPEG.
+
 ✅ Metadata reveals crucial timestamps—when the image was created, modified, and last accessed.
+
 ✅ Hidden data, such as embedded thumbnails, can still contain traces of previous versions.
+
 ✅ Recent access logs indicate potential reuse or distribution, making tracking essential.
 
 ## 💡 Why This Matters:
