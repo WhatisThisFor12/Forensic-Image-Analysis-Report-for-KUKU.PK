@@ -4,6 +4,8 @@
 **Date of Analysis:** March 25, 2025
 **Analyst:** Syed Zain Ul Hasan Naqvi
 
+![alt text](https://kuku.pk/shop/co-ords/muse-green-linen-co-ord/#&gid=1&pid=3)
+
 
 
 📌 Key Insights from the Forensic Report:
