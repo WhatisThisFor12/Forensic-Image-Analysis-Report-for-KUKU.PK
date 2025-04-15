@@ -4,7 +4,7 @@
 **Date of Analysis:** March 25, 2025
 **Analyst:** Syed Zain Ul Hasan Naqvi
 
-![alt text](https://kuku.pk/shop/co-ords/muse-green-linen-co-ord/#&gid=1&pid=3/760/1080)
+![alt text](https://kuku.pk/shop/co-ords/muse-green-linen-co-ord/#&gid=1&pid=3/200/200)
 
 
 
