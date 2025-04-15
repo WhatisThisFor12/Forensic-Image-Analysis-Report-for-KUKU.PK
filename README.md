@@ -6,7 +6,7 @@
 
 **Analyst:** Syed Zain Ul Hasan Naqvi
 
-![alt text](https://kuku.pk/shop/co-ords/muse-green-linen-co-ord/#&gid=1&pid=3/200/200)
+**URL:** https://kuku.pk/shop/co-ords/muse-green-linen-co-ord/#&gid=1&pid=3
 
 ## Executive Summary
 This report analyzes the metadata of an image file to provide insights into its origin, editing 
