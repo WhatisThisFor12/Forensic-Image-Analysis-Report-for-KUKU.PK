@@ -36,11 +36,16 @@ disputes.
 | Software Used | Adobe Photoshop 23.2 (Windows) |
 | Compression Type | JPEG (Baseline DCT, Huffman coding) |
 
-###Takeaway
+### Takeaway
 This image was processed using 'Adobe Photoshop' and exported as a 'JPEG', which 
 may have 'altered' its original quality and 'metadata'.
 
-
+| Image Creation & Editing History | Event Date & Time | Software Used |
+| --- | --- | --- |
+| Image Created | August 23, 2024, 17:16 (GMT+5) | Adobe Photoshop 23.2 |
+| Last Metadata Update | August 24, 2024, 14:09 (GMT+5) | Adobe Photoshop 23.2 |
+| File Last Accessed | March 25, 2025, 16:15 (GMT+1) | Unknown |
+| File Last Modified | March 25, 2025, 16:15 (GMT+1) | Unknown |
 
 📌 Key Insights from the Forensic Report:
 
